@@ -1,4 +1,4 @@
-<div style="text-align: center"><h2>如何设计一个秒杀系统</h2></div>
+<h1 align="center">如何设计一个秒杀系统</h1>
 
 作者：Windson & Alex
 
